@@ -17,4 +17,4 @@ Estou aprendendo a programar HTML, CSS, JS, Python e Java;
 <a href="mailto:andreia.martins17@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 
-![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
+
